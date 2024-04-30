@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img style="margin: 10px auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunmin-kim" /> 
-  <img style="margin: 10px auto" src="https://github-readme-stats.vercel.app/api?username=eunmin-kim" /> </div>
+  <img align="left" style="margin: 10px auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunmin-kim" /> 
+  <img align="right" style="margin: 10px auto" src="https://github-readme-stats.vercel.app/api?username=eunmin-kim" /> </div>
 </div>
 
 <!-- <center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunmin-kim)](https://github.com/anuraghazra/github-readme-stats)</center> -->
