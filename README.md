@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" style="text-align:center;"> <img style="margin: 10px auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunmin-kim" /> </div>
-<div align="center" style="text-align:center;"> <img style="margin: 10px auto" src="https://github-readme-stats.vercel.app/api?username=eunmin-kim" /> </div>
+<div>
+  <img style="margin: 10px auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunmin-kim" /> 
+  <img style="margin: 10px auto" src="https://github-readme-stats.vercel.app/api?username=eunmin-kim" /> </div>
+</div>
+
 <!-- <center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunmin-kim)](https://github.com/anuraghazra/github-readme-stats)</center> -->
 <!-- <center>[![Eunmin Kim Github Stats](https://github-readme-stats.vercel.app/api?username=eunmin-kim)](https://github.com/anuraghazra/github-readme-stats)</center> -->
